@@ -1,0 +1,9 @@
+name: ClearLag
+version: 1.0
+main: me.progamer260.clearlag.Main
+author: Progamer260
+commands:
+  ClearLag:
+    description: Clears lag
+  cl:
+    description: Clears lag
